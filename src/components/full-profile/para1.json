@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_full_profile_para1s",
+  "info": {
+    "displayName": "para1"
+  },
+  "options": {},
+  "attributes": {
+    "paragraph1": {
+      "type": "text"
+    },
+    "paragraph2": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}
